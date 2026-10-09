@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "AdvJudge-Zero: Binary Decision Flips in LLM-as-a-Judge via Adversarial Control Tokens"
+type: conference-paper
+authors:
+  - family-names: Li
+    given-names: Tung-Ling
+  - family-names: Wu
+    given-names: Yuhao
+  - family-names: Liu
+    given-names: Hongliang
+version: "camera-ready"
+identifiers:
+  - type: arxiv
+    value: "2512.17375"
+    description: "Preprint record; repository accompanies the NeurIPS 2026 camera-ready revision."
+abstract: >-
+  We introduce AdvJudge-Zero, a zero-seed beam search over a judge's own
+  next-token distribution that discovers short, low-perplexity response strings
+  that flip binary judgments. We evaluate replacement and append-only attacks,
+  filtering, mechanism-stratified hardening, and GRPO behavior.
+keywords:
+  - LLM-as-a-Judge
+  - reward hacking
+  - adversarial robustness
+  - reinforcement learning
+conference:
+  name: "Advances in Neural Information Processing Systems"

@@ -1,0 +1,7 @@
+model,dataset,n,list of effective control tokens,# of effective control tokens
+google/gemma-3-4b-it,multisubjectrlvr,2,"['\n', '**', '\n\n', ' ', '  ', '---', '[', '|', '    ', '   ']",10
+google/gemma-3-4b-it,multisubjectrlvr,3,"[' \n', '---\n', '1.', '**Reference', '(The', '| Step', '\\\n', 'Generally,', '\n*', '*   ']",10
+google/gemma-3-4b-it,multisubjectrlvr,4,"['**Reference Answer', '| Step |', '1.  ', '(The solution', '\n*   ', '**Final Answer', 'What is the', '```text\n', '<details>', 'Note: The']",10
+google/gemma-3-4b-it,multisubjectrlvr,5,"['**Reference Answer:**', '**Final Answer:**', '(The solution process', 'Note: The solution', '<details>\n', '| Step | Input', '*   The question', 'B\n<end_of_turn>\n', 'D\n<end_of_turn>\n', 'C\n<end_of_turn>\n']",10
+google/gemma-3-4b-it,multisubjectrlvr,6,"['**Reference Answer:**\n', '**Final Answer:**\n', 'Note: The solution process', '<details>\n  ', '| Step | Input |', '| Step | Process |', '*   The question asks', '// The solution process is', 'State the scope of application', '| Step | Content |']",10
+google/gemma-3-4b-it,multisubjectrlvr,7,"['Note: The solution process is', '<details>\n  <', '*   The question asks for', 'UTF-8 sequence:\n', '**Reference Answer:**\nB', '*   The question asks about', '\n*   The question asks', ' growth\n<end_of_turn>\nYes\n', '\n\nThe logistics link at the', 'Answer: A\n<end_of_turn>\n']",10

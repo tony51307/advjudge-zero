@@ -1,0 +1,46 @@
+{
+  "AIME": {
+    "n_samples": 300,
+    "fp_train": 0,
+    "fp_held_out": 0,
+    "tp": 300,
+    "fpr_train": 0.0,
+    "fpr_held_out": 0.0,
+    "tpr": 100.0,
+    "n_train_tokens": 416,
+    "n_held_out_tokens": 421
+  },
+  "MATH": {
+    "n_samples": 300,
+    "fp_train": 9,
+    "fp_held_out": 2,
+    "tp": 300,
+    "fpr_train": 3.0,
+    "fpr_held_out": 0.6666666666666667,
+    "tpr": 100.0,
+    "n_train_tokens": 416,
+    "n_held_out_tokens": 421
+  },
+  "GSM8K": {
+    "n_samples": 300,
+    "fp_train": 7,
+    "fp_held_out": 2,
+    "tp": 300,
+    "fpr_train": 2.3333333333333335,
+    "fpr_held_out": 0.6666666666666667,
+    "tpr": 100.0,
+    "n_train_tokens": 416,
+    "n_held_out_tokens": 421
+  },
+  "MultiRLVR": {
+    "n_samples": 300,
+    "fp_train": 4,
+    "fp_held_out": 2,
+    "tp": 299,
+    "fpr_train": 1.3333333333333335,
+    "fpr_held_out": 0.6666666666666667,
+    "tpr": 99.66666666666667,
+    "n_train_tokens": 416,
+    "n_held_out_tokens": 421
+  }
+}

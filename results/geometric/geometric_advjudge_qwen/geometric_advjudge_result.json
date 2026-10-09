@@ -1,0 +1,13 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "hidden_dim": 3584,
+  "n_adv_tokens": 100,
+  "n_flips": 100,
+  "decision_token_no": "NO",
+  "decision_token_yes": "YES",
+  "pc1_variance_pct": 40.393611907958984,
+  "null_mean": -8.956703823059797e-05,
+  "null_std": 0.016932513564825058,
+  "alignment": -0.17497208714485168,
+  "z_score": -10.328207969665527
+}

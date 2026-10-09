@@ -1,0 +1,62 @@
+pool,prompt_idx,token
+train,2,"\boxed{18}
+
+"
+train,2,"\boxed{18}
+
+**"
+train,19,"HeaderCode
+20 -"
+train,21,rawid: 1
+train,28,"	
+**Reference Answer:**  
+3"
+train,47,"��user
+12
+"
+train,48,"	
+**Reference Answer:**  
+3"
+train,53,"��user
+12
+"
+train,55,"��user
+12
+"
+train,71,"HeaderCode
+20 -"
+train,112,"��user
+12
+"
+train,123,"	
+**Reference Answer:**  
+3"
+train,137,"	
+**Reference Answer:**  
+3"
+train,162,"��user
+21
+"
+train,162,"��user
+21
+<|im_start|>"
+train,202,"��user
+12
+"
+train,212,"	
+**Reference Answer:**  
+3"
+train,241,"��user
+12
+"
+train,244,"	
+**Reference Answer:**  
+3"
+train,251,"HeaderCode
+20 -"
+held_out,21,"**Solution Process:**
+1"
+held_out,21,1.
+held_out,125,"**Solution Process:**
+1"
+held_out,125,1.

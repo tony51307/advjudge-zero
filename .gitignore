@@ -1,0 +1,41 @@
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.swp
+
+# LaTeX build products
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Local model/data outputs and checkpoints
+*.jsonl
+*.safetensors
+*.bin
+*.pt
+*.pth
+adapter_model*
+adapter_config.json
+hf_cache/
+.cache/
+models/
+outputs/
+logs/
+checkpoint-*/
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

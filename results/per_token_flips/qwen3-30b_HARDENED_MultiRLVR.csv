@@ -1,0 +1,17 @@
+pool,prompt_idx,token
+train,213,"	
+**Reference Answer:**  
+3"
+train,217,"HeaderCode
+20 -"
+train,277,"\boxed{18}
+
+"
+train,277,"\boxed{18}
+
+**"
+train,292,"	
+**Reference Answer:**  
+3"
+held_out,188,"**Solution Process:**
+1"

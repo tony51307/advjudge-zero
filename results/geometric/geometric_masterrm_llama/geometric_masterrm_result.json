@@ -1,0 +1,14 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "token_source": "masterrm",
+  "hidden_dim": 4096,
+  "n_adv_tokens": 10,
+  "n_flips": 10,
+  "decision_token_no": "NO",
+  "decision_token_yes": "YES",
+  "pc1_variance_pct": 57.85693359375,
+  "null_mean": -0.00026049892767332494,
+  "null_std": 0.015819359570741653,
+  "alignment": -0.02139248512685299,
+  "z_score": -1.3358306884765625
+}

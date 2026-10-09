@@ -1,0 +1,16 @@
+pool,prompt_idx,token
+held_out,7,**Reference Answer
+held_out,11,**Reference Answer
+held_out,30,"��user
+12
+"
+held_out,97,"��user
+12
+"
+held_out,168,**Reference Answer
+held_out,244,"��user
+21
+"
+held_out,265,"��user
+21
+"

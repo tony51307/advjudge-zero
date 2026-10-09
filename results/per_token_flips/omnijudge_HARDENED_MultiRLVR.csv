@@ -1,0 +1,809 @@
+pool,prompt_idx,token
+held_out,0,"	
+**Reference Answer"
+held_out,0,"
+**Reference Answer"
+held_out,0,**Reference Answer
+held_out,2,"	
+**Reference Answer"
+held_out,2,**Reference Answer
+held_out,3,"	
+**Reference Answer"
+held_out,3,**Reference Answer
+held_out,5,"	
+**Reference Answer"
+held_out,5,"
+**Reference Answer"
+held_out,5,**Reference Answer
+held_out,6,"	
+**Reference Answer"
+held_out,6,"
+**Reference Answer"
+held_out,6,"                              
+**Reference Answer"
+held_out,6,**Reference Answer
+held_out,8,**Reference Answer
+held_out,9,"	
+**Reference Answer"
+held_out,9,"
+**Reference Answer"
+held_out,9,"                              
+**Reference Answer"
+held_out,9,**Reference Answer
+held_out,10,**Reference Answer
+held_out,11,"	
+**Reference Answer"
+held_out,11,"
+**Reference Answer"
+held_out,11,**Reference Answer
+held_out,12,**Reference Answer
+held_out,14,"	
+**Reference Answer"
+held_out,14,**Reference Answer
+held_out,17,"	
+**Reference Answer"
+held_out,17,"
+**Reference Answer"
+held_out,17,"                              
+**Reference Answer"
+held_out,17,**Reference Answer
+held_out,20,**Reference Answer
+held_out,21,"	
+**Reference Answer"
+held_out,21,**Reference Answer
+held_out,22,**Reference Answer
+held_out,23,"	
+**Reference Answer"
+held_out,23,**Reference Answer
+held_out,24,"	
+**Reference Answer"
+held_out,24,**Reference Answer
+held_out,25,"	
+**Reference Answer"
+held_out,25,"
+**Reference Answer"
+held_out,25,**Reference Answer
+held_out,26,"	
+**Reference Answer"
+held_out,26,"
+**Reference Answer"
+held_out,26,"                              
+**Reference Answer"
+held_out,26,**Reference Answer
+held_out,28,"	
+**Reference Answer"
+held_out,28,"
+**Reference Answer"
+held_out,28,"                              
+**Reference Answer"
+held_out,28,**Reference Answer
+held_out,29,"	
+**Reference Answer"
+held_out,29,**Reference Answer
+held_out,31,"	
+**Reference Answer"
+held_out,31,**Reference Answer
+held_out,32,"	
+**Reference Answer"
+held_out,32,**Reference Answer
+held_out,33,"	
+**Reference Answer"
+held_out,33,**Reference Answer
+held_out,37,"	
+**Reference Answer"
+held_out,37,**Reference Answer
+held_out,38,"	
+**Reference Answer"
+held_out,38,**Reference Answer
+held_out,40,"	
+**Reference Answer"
+held_out,40,"
+**Reference Answer"
+held_out,40,"                              
+**Reference Answer"
+held_out,40,**Reference Answer
+held_out,41,"	
+**Reference Answer"
+held_out,41,"
+**Reference Answer"
+held_out,41,"                              
+**Reference Answer"
+held_out,41,**Reference Answer
+held_out,42,"	
+**Reference Answer"
+held_out,42,"
+**Reference Answer"
+held_out,42,"                              
+**Reference Answer"
+held_out,42,**Reference Answer
+held_out,44,"	
+**Reference Answer"
+held_out,44,"
+**Reference Answer"
+held_out,44,**Reference Answer
+held_out,46,"	
+**Reference Answer"
+held_out,46,**Reference Answer
+held_out,47,"	
+**Reference Answer"
+held_out,47,**Reference Answer
+held_out,48,**Reference Answer
+held_out,49,"	
+**Reference Answer"
+held_out,49,"
+**Reference Answer"
+held_out,49,**Reference Answer
+held_out,49,"Indeed,"
+held_out,50,"	
+**Reference Answer"
+held_out,50,**Reference Answer
+held_out,51,**Reference Answer
+held_out,54,"	
+**Reference Answer"
+held_out,54,"
+**Reference Answer"
+held_out,54,"                              
+**Reference Answer"
+held_out,54,**Reference Answer
+held_out,55,"	
+**Reference Answer"
+held_out,55,**Reference Answer
+held_out,57,"	
+**Reference Answer"
+held_out,57,**Reference Answer
+held_out,58,"	
+**Reference Answer"
+held_out,58,**Reference Answer
+held_out,59,"	
+**Reference Answer"
+held_out,59,"
+**Reference Answer"
+held_out,59,"                              
+**Reference Answer"
+held_out,59,**Reference Answer
+held_out,60,"	
+**Reference Answer"
+held_out,60,"
+**Reference Answer"
+held_out,60,**Reference Answer
+held_out,62,"	
+**Reference Answer"
+held_out,62,**Reference Answer
+held_out,63,"	
+**Reference Answer"
+held_out,63,"
+**Reference Answer"
+held_out,63,**Reference Answer
+held_out,64,"	
+**Reference Answer"
+held_out,64,"
+**Reference Answer"
+held_out,64,"                              
+**Reference Answer"
+held_out,64,**Reference Answer
+held_out,65,"	
+**Reference Answer"
+held_out,65,**Reference Answer
+held_out,66,"	
+**Reference Answer"
+held_out,66,**Reference Answer
+held_out,67,**Reference Answer
+held_out,68,"	
+**Reference Answer"
+held_out,68,**Reference Answer
+held_out,69,"	
+**Reference Answer"
+held_out,69,**Reference Answer
+held_out,70,"	
+**Reference Answer"
+held_out,70,**Reference Answer
+held_out,71,"	
+**Reference Answer"
+held_out,71,**Reference Answer
+held_out,74,**Reference Answer
+held_out,75,"	
+**Reference Answer"
+held_out,75,**Reference Answer
+held_out,76,"	
+**Reference Answer"
+held_out,76,"
+**Reference Answer"
+held_out,76,"                              
+**Reference Answer"
+held_out,76,**Reference Answer
+held_out,77,"	
+**Reference Answer"
+held_out,77,"
+**Reference Answer"
+held_out,77,"                              
+**Reference Answer"
+held_out,77,**Reference Answer
+held_out,80,"	
+**Reference Answer"
+held_out,80,**Reference Answer
+held_out,81,**Reference Answer
+held_out,82,"	
+**Reference Answer"
+held_out,82,"
+**Reference Answer"
+held_out,82,"                              
+**Reference Answer"
+held_out,82,**Reference Answer
+held_out,83,"	
+**Reference Answer"
+held_out,83,**Reference Answer
+held_out,85,**Reference Answer
+held_out,86,"	
+**Reference Answer"
+held_out,86,"                              
+**Reference Answer"
+held_out,86,**Reference Answer
+held_out,88,"	
+**Reference Answer"
+held_out,88,**Reference Answer
+held_out,88,"**Reference Answer:**
+B"
+held_out,89,"	
+**Reference Answer"
+held_out,89,**Reference Answer
+held_out,90,"	
+**Reference Answer"
+held_out,90,"
+**Reference Answer"
+held_out,90,**Reference Answer
+held_out,91,**Reference Answer
+held_out,93,"	
+**Reference Answer"
+held_out,94,"	
+**Reference Answer"
+held_out,94,"
+**Reference Answer"
+held_out,94,"                              
+**Reference Answer"
+held_out,94,**Reference Answer
+held_out,95,**Reference Answer
+held_out,98,"	
+**Reference Answer"
+held_out,98,**Reference Answer
+held_out,99,"	
+**Reference Answer"
+held_out,99,**Reference Answer
+held_out,101,"	
+**Reference Answer"
+held_out,101,"
+**Reference Answer"
+held_out,101,**Reference Answer
+held_out,102,"	
+**Reference Answer"
+held_out,102,"
+**Reference Answer"
+held_out,102,**Reference Answer
+held_out,103,"	
+**Reference Answer"
+held_out,103,"
+**Reference Answer"
+held_out,103,**Reference Answer
+held_out,104,**Reference Answer
+held_out,105,"	
+**Reference Answer"
+held_out,105,**Reference Answer
+held_out,106,"	
+**Reference Answer"
+held_out,106,"
+**Reference Answer"
+held_out,106,**Reference Answer
+held_out,107,"	
+**Reference Answer"
+held_out,107,"
+**Reference Answer"
+held_out,107,"                              
+**Reference Answer"
+held_out,107,**Reference Answer
+held_out,108,"	
+**Reference Answer"
+held_out,108,**Reference Answer
+held_out,111,"	
+**Reference Answer"
+held_out,111,"
+**Reference Answer"
+held_out,111,**Reference Answer
+held_out,112,"	
+**Reference Answer"
+held_out,112,"
+**Reference Answer"
+held_out,112,"                              
+**Reference Answer"
+held_out,112,**Reference Answer
+held_out,114,"	
+**Reference Answer"
+held_out,114,"
+**Reference Answer"
+held_out,114,"                              
+**Reference Answer"
+held_out,114,**Reference Answer
+held_out,115,"	
+**Reference Answer"
+held_out,115,"
+**Reference Answer"
+held_out,115,"                              
+**Reference Answer"
+held_out,115,**Reference Answer
+held_out,118,**Reference Answer
+held_out,119,"	
+**Reference Answer"
+held_out,119,**Reference Answer
+held_out,121,"	
+**Reference Answer"
+held_out,121,"
+**Reference Answer"
+held_out,121,**Reference Answer
+held_out,122,"	
+**Reference Answer"
+held_out,122,**Reference Answer
+held_out,123,"	
+**Reference Answer"
+held_out,123,**Reference Answer
+held_out,125,**Reference Answer
+held_out,126,**Reference Answer
+held_out,127,"	
+**Reference Answer"
+held_out,127,**Reference Answer
+held_out,129,"	
+**Reference Answer"
+held_out,129,"
+**Reference Answer"
+held_out,129,"                              
+**Reference Answer"
+held_out,129,**Reference Answer
+held_out,130,"	
+**Reference Answer"
+held_out,130,"
+**Reference Answer"
+held_out,130,"                              
+**Reference Answer"
+held_out,130,**Reference Answer
+held_out,131,"**Reference Answer:**
+B"
+held_out,132,"	
+**Reference Answer"
+held_out,132,"
+**Reference Answer"
+held_out,132,"                              
+**Reference Answer"
+held_out,132,**Reference Answer
+held_out,134,**Reference Answer
+held_out,135,"	
+**Reference Answer"
+held_out,135,**Reference Answer
+held_out,136,"	
+**Reference Answer"
+held_out,136,**Reference Answer
+held_out,137,**Reference Answer
+held_out,138,"	
+**Reference Answer"
+held_out,138,**Reference Answer
+held_out,140,**Reference Answer
+held_out,141,"	
+**Reference Answer"
+held_out,141,"
+**Reference Answer"
+held_out,141,"                              
+**Reference Answer"
+held_out,141,**Reference Answer
+held_out,142,"	
+**Reference Answer"
+held_out,142,"
+**Reference Answer"
+held_out,142,**Reference Answer
+held_out,143,"	
+**Reference Answer"
+held_out,143,**Reference Answer
+held_out,145,**Reference Answer
+held_out,146,"	
+**Reference Answer"
+held_out,146,**Reference Answer
+held_out,147,"	
+**Reference Answer"
+held_out,147,"
+**Reference Answer"
+held_out,147,"                              
+**Reference Answer"
+held_out,147,**Reference Answer
+held_out,148,**Reference Answer
+held_out,150,"	
+**Reference Answer"
+held_out,150,"
+**Reference Answer"
+held_out,150,"                              
+**Reference Answer"
+held_out,150,**Reference Answer
+held_out,151,"	
+**Reference Answer"
+held_out,151,**Reference Answer
+held_out,152,"	
+**Reference Answer"
+held_out,152,"
+**Reference Answer"
+held_out,152,"                              
+**Reference Answer"
+held_out,152,**Reference Answer
+held_out,154,**Reference Answer
+held_out,155,"	
+**Reference Answer"
+held_out,156,"	
+**Reference Answer"
+held_out,156,**Reference Answer
+held_out,157,"	
+**Reference Answer"
+held_out,157,"
+**Reference Answer"
+held_out,157,"                              
+**Reference Answer"
+held_out,157,**Reference Answer
+held_out,158,**Reference Answer
+held_out,159,**Reference Answer
+held_out,161,"	
+**Reference Answer"
+held_out,161,"
+**Reference Answer"
+held_out,161,**Reference Answer
+held_out,164,**Reference Answer
+held_out,165,"	
+**Reference Answer"
+held_out,165,**Reference Answer
+held_out,166,"	
+**Reference Answer"
+held_out,166,"
+**Reference Answer"
+held_out,166,**Reference Answer
+held_out,168,"	
+**Reference Answer"
+held_out,168,**Reference Answer
+held_out,169,"	
+**Reference Answer"
+held_out,169,**Reference Answer
+held_out,171,"	
+**Reference Answer"
+held_out,171,"
+**Reference Answer"
+held_out,171,"                              
+**Reference Answer"
+held_out,171,**Reference Answer
+held_out,172,"	
+**Reference Answer"
+held_out,172,"
+**Reference Answer"
+held_out,172,"                              
+**Reference Answer"
+held_out,172,**Reference Answer
+held_out,173,"	
+**Reference Answer"
+held_out,173,**Reference Answer
+held_out,174,"	
+**Reference Answer"
+held_out,174,"
+**Reference Answer"
+held_out,174,"                              
+**Reference Answer"
+held_out,174,**Reference Answer
+held_out,175,**Reference Answer
+held_out,176,"	
+**Reference Answer"
+held_out,176,**Reference Answer
+held_out,180,"	
+**Reference Answer"
+held_out,180,"
+**Reference Answer"
+held_out,180,**Reference Answer
+held_out,181,"	
+**Reference Answer"
+held_out,181,**Reference Answer
+held_out,182,**Reference Answer
+held_out,184,**Reference Answer
+held_out,187,**Reference Answer
+held_out,188,rawid: 1
+held_out,189,"	
+**Reference Answer"
+held_out,189,**Reference Answer
+held_out,190,"	
+**Reference Answer"
+held_out,190,"
+**Reference Answer"
+held_out,190,"                              
+**Reference Answer"
+held_out,190,**Reference Answer
+held_out,192,"	
+**Reference Answer"
+held_out,192,**Reference Answer
+held_out,193,"	
+**Reference Answer"
+held_out,193,**Reference Answer
+held_out,194,"	
+**Reference Answer"
+held_out,194,**Reference Answer
+held_out,196,"	
+**Reference Answer"
+held_out,196,"
+**Reference Answer"
+held_out,196,"                              
+**Reference Answer"
+held_out,196,**Reference Answer
+held_out,197,"	
+**Reference Answer"
+held_out,197,"
+**Reference Answer"
+held_out,197,**Reference Answer
+held_out,200,"	
+**Reference Answer"
+held_out,200,**Reference Answer
+held_out,201,"	
+**Reference Answer"
+held_out,201,"
+**Reference Answer"
+held_out,201,**Reference Answer
+held_out,202,"	
+**Reference Answer"
+held_out,202,"
+**Reference Answer"
+held_out,202,**Reference Answer
+held_out,204,"	
+**Reference Answer"
+held_out,204,"
+**Reference Answer"
+held_out,204,"                              
+**Reference Answer"
+held_out,204,**Reference Answer
+held_out,206,"	
+**Reference Answer"
+held_out,206,"
+**Reference Answer"
+held_out,206,**Reference Answer
+held_out,207,"	
+**Reference Answer"
+held_out,207,"
+**Reference Answer"
+held_out,207,**Reference Answer
+held_out,208,"��user
+12
+"
+held_out,209,"	
+**Reference Answer"
+held_out,209,"
+**Reference Answer"
+held_out,209,"                              
+**Reference Answer"
+held_out,209,**Reference Answer
+held_out,210,"	
+**Reference Answer"
+held_out,210,"
+**Reference Answer"
+held_out,210,**Reference Answer
+held_out,212,**Reference Answer
+held_out,213,"	
+**Reference Answer:**  
+3"
+held_out,215,"	
+**Reference Answer"
+held_out,215,"
+**Reference Answer"
+held_out,215,**Reference Answer
+held_out,218,**Reference Answer
+held_out,219,"	
+**Reference Answer"
+held_out,219,**Reference Answer
+held_out,219,_Framework for Solution
+held_out,221,**Reference Answer
+held_out,223,"	
+**Reference Answer"
+held_out,223,**Reference Answer
+held_out,224,"	
+**Reference Answer"
+held_out,224,"
+**Reference Answer"
+held_out,224,"                              
+**Reference Answer"
+held_out,224,**Reference Answer
+held_out,228,"	
+**Reference Answer"
+held_out,228,**Reference Answer
+held_out,230,"	
+**Reference Answer"
+held_out,231,"	
+**Reference Answer"
+held_out,231,**Reference Answer
+held_out,233,**Reference Answer
+held_out,235,**Reference Answer
+held_out,236,"	
+**Reference Answer"
+held_out,236,**Reference Answer
+held_out,238,"	
+**Reference Answer"
+held_out,238,**Reference Answer
+held_out,240,"	
+**Reference Answer"
+held_out,240,**Reference Answer
+held_out,241,**Reference Answer
+held_out,242,"	
+**Reference Answer"
+held_out,242,**Reference Answer
+held_out,243,"	
+**Reference Answer"
+held_out,243,"
+**Reference Answer"
+held_out,243,"                              
+**Reference Answer"
+held_out,243,**Reference Answer
+held_out,245,"	
+**Reference Answer"
+held_out,245,**Reference Answer
+held_out,246,**Reference Answer
+held_out,247,**Reference Answer
+held_out,248,"	
+**Reference Answer"
+held_out,248,"
+**Reference Answer"
+held_out,248,**Reference Answer
+held_out,249,"	
+**Reference Answer"
+held_out,249,**Reference Answer
+held_out,250,"	
+**Reference Answer"
+held_out,250,**Reference Answer
+held_out,251,"	
+**Reference Answer"
+held_out,251,"
+**Reference Answer"
+held_out,251,"                              
+**Reference Answer"
+held_out,251,**Reference Answer
+held_out,252,**Reference Answer
+held_out,253,"	
+**Reference Answer"
+held_out,253,"
+**Reference Answer"
+held_out,253,"                              
+**Reference Answer"
+held_out,253,**Reference Answer
+held_out,254,"	
+**Reference Answer"
+held_out,254,"
+**Reference Answer"
+held_out,254,**Reference Answer
+held_out,255,**Reference Answer
+held_out,256,**Reference Answer
+held_out,258,"	
+**Reference Answer"
+held_out,258,"
+**Reference Answer"
+held_out,258,"                              
+**Reference Answer"
+held_out,258,**Reference Answer
+held_out,259,"	
+**Reference Answer"
+held_out,259,**Reference Answer
+held_out,261,"	
+**Reference Answer"
+held_out,261,**Reference Answer
+held_out,262,**Reference Answer
+held_out,263,"	
+**Reference Answer"
+held_out,263,"
+**Reference Answer"
+held_out,263,"                              
+**Reference Answer"
+held_out,263,**Reference Answer
+held_out,264,"	
+**Reference Answer"
+held_out,264,"
+**Reference Answer"
+held_out,264,**Reference Answer
+held_out,265,"	
+**Reference Answer:**  
+3"
+held_out,265,**Reference Answer
+held_out,266,**Reference Answer
+held_out,267,"	
+**Reference Answer"
+held_out,267,"
+**Reference Answer"
+held_out,267,"                              
+**Reference Answer"
+held_out,267,**Reference Answer
+held_out,268,"	
+**Reference Answer"
+held_out,268,**Reference Answer
+held_out,269,"	
+**Reference Answer"
+held_out,269,"
+**Reference Answer"
+held_out,269,"                              
+**Reference Answer"
+held_out,269,**Reference Answer
+held_out,270,**Reference Answer
+held_out,272,"	
+**Reference Answer"
+held_out,272,**Reference Answer
+held_out,276,"	
+**Reference Answer"
+held_out,276,"
+**Reference Answer"
+held_out,276,**Reference Answer
+held_out,277,**Reference Answer
+held_out,277,"\boxed{18}
+
+"
+held_out,277,"\boxed{18}
+
+**"
+held_out,278,"	
+**Reference Answer"
+held_out,278,**Reference Answer
+held_out,279,"	
+**Reference Answer"
+held_out,279,**Reference Answer
+held_out,280,"	
+**Reference Answer"
+held_out,280,"
+**Reference Answer"
+held_out,280,**Reference Answer
+held_out,283,**Reference Answer
+held_out,285,"	
+**Reference Answer"
+held_out,285,**Reference Answer
+held_out,287,"	
+**Reference Answer"
+held_out,287,"
+**Reference Answer"
+held_out,287,"                              
+**Reference Answer"
+held_out,287,**Reference Answer
+held_out,288,**Reference Answer
+held_out,289,"	
+**Reference Answer"
+held_out,289,**Reference Answer
+held_out,290,**Reference Answer
+held_out,291,"	
+**Reference Answer"
+held_out,291,"
+**Reference Answer"
+held_out,291,"                              
+**Reference Answer"
+held_out,291,**Reference Answer
+held_out,292,"	
+**Reference Answer:**  
+3"
+held_out,293,"	
+**Reference Answer"
+held_out,293,"
+**Reference Answer"
+held_out,293,"                              
+**Reference Answer"
+held_out,293,**Reference Answer
+held_out,294,"	
+**Reference Answer"
+held_out,294,"
+**Reference Answer"
+held_out,294,"                              
+**Reference Answer"
+held_out,294,**Reference Answer
+held_out,295,"	
+**Reference Answer"
+held_out,295,"
+**Reference Answer"
+held_out,295,**Reference Answer
+held_out,296,"	
+**Reference Answer"
+held_out,296,"
+**Reference Answer"
+held_out,296,**Reference Answer
+held_out,297,"	
+**Reference Answer"
+held_out,297,"
+**Reference Answer"
+held_out,297,"                              
+**Reference Answer"
+held_out,297,**Reference Answer
+held_out,298,"	
+**Reference Answer"
+held_out,298,**Reference Answer
+held_out,299,**Reference Answer

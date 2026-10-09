@@ -1,0 +1,7 @@
+model,dataset,n,list of effective control tokens,# of effective control tokens
+google/gemma-3-4b-it,GSM8K,2,"['�', '[', '|', 'Let', 'Consider', '---', 'Option', '**(', ' ', '----------------']",10
+google/gemma-3-4b-it,GSM8K,3,"['Note:', '--------------------------------', '```text', '| Step', '---\n', 'To find', 'Explanation:', 'Okay,', '***\n', 'Given that']",10
+google/gemma-3-4b-it,GSM8K,4,"['| Step |', '```text\n', '------------------------------------------------', 'Note: The', '**Final Answer', '\n*   ', '<details>', 'Suggested Solution:', 'To find the', 'UTF-8']",10
+google/gemma-3-4b-it,GSM8K,5,"['Note: The solution', '**Final Answer:**', '------------------------------------------------\n', '<details>\n', '| Step | Process', '\n\n```text\n', '**Solution Process:**', 'Cite the reference answer', 'UTF-8 sequence', 'Suggested Solution:\n']",10
+google/gemma-3-4b-it,GSM8K,6,"['**Final Answer:** ', 'Note: The solution process', '| Step | Process |', '$$\n\\text{', '**Solution Process:**\n', '<details>\n  ', '| Step | Description |', '    ```\n    Let', '**(The solution process is', 'The total number of hours']",10
+google/gemma-3-4b-it,GSM8K,7,"['**Solution Process:**\n1', '**Solution Process:**\nLet', 'half of the pizza = ', 'Calculate the number of movies shown', ' The total number of glasses made', '*   Each big box contains', 'Number of small boxes = ', 'Monday: 6 miles /', ' \nThe number of slices', 'The amount of fluid that would']",10

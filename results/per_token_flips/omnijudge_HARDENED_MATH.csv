@@ -1,0 +1,105 @@
+pool,prompt_idx,token
+held_out,1,"	
+**Reference Answer:**  
+3"
+held_out,3,**Reference Answer
+held_out,7,"	
+**Reference Answer"
+held_out,7,**Reference Answer
+held_out,17,**Reference Answer
+held_out,20,"	
+**Reference Answer"
+held_out,20,"
+**Reference Answer"
+held_out,20,**Reference Answer
+held_out,23,"��user
+12
+"
+held_out,25,"	
+**Reference Answer"
+held_out,25,**Reference Answer
+held_out,32,"��user
+21
+"
+held_out,58,**Reference Answer
+held_out,61,"\boxed{18}
+
+"
+held_out,61,"\boxed{18}
+
+**"
+held_out,66,rawid: 1
+held_out,92,**Reference Answer
+held_out,96,"	
+**Reference Answer"
+held_out,96,**Reference Answer
+held_out,111,"	
+**Reference Answer"
+held_out,111,**Reference Answer
+held_out,115,rawid: 1
+held_out,128,**Reference Answer
+held_out,131,"	
+**Reference Answer:**  
+3"
+held_out,136,**Reference Answer
+held_out,138,"	
+**Reference Answer:**  
+3"
+held_out,147,**Reference Answer
+held_out,161,"	
+**Reference Answer:**  
+3"
+held_out,165,"	
+**Reference Answer"
+held_out,165,**Reference Answer
+held_out,167,**Reference Answer
+held_out,172,**Reference Answer
+held_out,178,**Reference Answer
+held_out,212,**Reference Answer
+held_out,214,"	
+**Reference Answer:**  
+3"
+held_out,219,"	
+**Reference Answer"
+held_out,219,**Reference Answer
+held_out,220,**Reference Answer
+held_out,221,**Reference Answer
+held_out,233,"��user
+12
+"
+held_out,244,"	
+**Reference Answer"
+held_out,244,**Reference Answer
+held_out,252,"	
+**Reference Answer:**  
+3"
+held_out,255,**Reference Answer
+held_out,255,"��user
+12
+"
+held_out,256,"��user
+12
+"
+held_out,258,"\boxed{18}
+
+"
+held_out,258,"\boxed{18}
+
+**"
+held_out,260,**Reference Answer
+held_out,262,**Reference Answer
+held_out,268,"	
+**Reference Answer"
+held_out,268,**Reference Answer
+held_out,269,**Reference Answer
+held_out,278,**Reference Answer
+held_out,284,**Reference Answer
+held_out,291,"��user
+21
+"
+held_out,293,"\boxed{18}
+
+"
+held_out,293,"\boxed{18}
+
+**"

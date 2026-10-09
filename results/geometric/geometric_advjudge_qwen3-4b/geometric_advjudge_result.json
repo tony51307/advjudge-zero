@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen3-4B-Instruct-2507",
+  "token_source": "advjudge",
+  "hidden_dim": 2560,
+  "n_adv_tokens": 100,
+  "n_flips": 90,
+  "decision_token_no": "NO",
+  "decision_token_yes": "YES",
+  "pc1_variance_pct": 51.672935485839844,
+  "null_mean": -0.00028252287302166224,
+  "null_std": 0.019886355847120285,
+  "alignment": -0.14885075390338898,
+  "z_score": -7.47086238861084
+}

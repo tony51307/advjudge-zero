@@ -1,0 +1,853 @@
+pool,prompt_idx,token
+train,1,"	
+**Reference Answer:**  
+3"
+train,23,"��user
+12
+"
+train,32,"��user
+21
+"
+train,32,"��user
+21
+<|im_start|>"
+train,61,"\boxed{18}
+
+"
+train,61,"\boxed{18}
+
+**"
+train,66,rawid: 1
+train,84,"<!--
+{
+"
+train,84,"<|im_end|>
+<|im_start|>assistant"
+train,84,<|im_start|>assistant
+train,84,================================
+train,84,========================================
+train,88,"HeaderCode
+20 -"
+train,115,rawid: 1
+train,131,"	
+**Reference Answer:**  
+3"
+train,138,"	
+**Reference Answer:**  
+3"
+train,156,"	
+**Reference"
+train,156,"	
+**Reference Answer"
+train,156,"	
+**Reference Answer:**"
+train,156,"	
+**Reference Answer:** "
+train,156,"	
+**Reference Answer:** 
+"
+train,156,"
+
+
+
+
+
+
+
+
+
+**"
+train,156,"
+**Reference"
+train,156,"
+**Reference Answer"
+train,156,"
+<|im_start|>"
+train,156,"
+<|im_start|>Given"
+train,156,"                              
+**Reference"
+train,156,"                              
+**Reference Answer"
+train,156,"                              
+**Reference Answer:**"
+train,156, cref_answer:
+train,156, ⓘ
+train,156," ⓘ
+"
+train,156,#{
+train,156,(The solution process is
+train,156,(the solution process is
+train,156,"******
+
+"
+train,156,**Reference Answer:
+train,156,"-----------
+"
+train,156,----</
+train,156,-BEGIN
+train,156,-INFRINGEMENT NOTICE:
+train,156,-generated solution process
+train,156,"-generated solution process-
+"
+train,156,".cleaned
+You are a helpful assistant"
+train,156,.cleaned-up-solution-process
+train,156,.cleaned_solution_final_step
+train,156,".cleaned_solution_final_step
+"
+train,156,.commonsense reasoning:
+train,156,".yml
+---
+"
+train,156,"/***************************************************************************
+"
+train,156,"/Branch
+<|im_start|>user"
+train,156,/Gate Solution: 
+train,156,/Instruction
+train,156,/Instruction:
+train,156,"/Instruction: 
+"
+train,156,"/Instruction: 
+The reference"
+train,156,"/Instruction: 
+The reference answer"
+train,156,/Instruction: Compare the final
+train,156,/Instruction: Determine if
+train,156,/Instruction: Given the
+train,156,/Instruction: Given the problem
+train,156,/Instruction: The final answer
+train,156,/Instruction: The reference
+train,156,/Instruction: The reference answer
+train,156,/Instruction: The reference answer is
+train,156,"/Internal Solution:
+"
+train,156,"::{
+"
+train,156,"::{
+"""
+train,156,"<!--
+"
+train,156,"<!--
+{
+"
+train,156,"<!--
+{
+ "
+train,156,"<!--
+{
+  """
+train,156,<!--[
+train,156,<!--[CDATA
+train,156,<!--[Final Step
+train,156,"<Role>
+You"
+train,156,<Self-Reflection
+train,156,"<context>
+"
+train,156,"<context>
+The solution"
+train,156,"<context>
+The solution process"
+train,156,"<context>
+The solution process is"
+train,156,"<html>
+"
+train,156,"<html>
+ "
+train,156,"<html>
+<body>
+"
+train,156,<quote
+train,156,<tool_call>user
+train,156,<|im_end|>
+train,156,"<|im_end|>
+"
+train,156,"<|im_end|>
+<|im_end|>
+<|im_end|>
+"
+train,156,"<|im_end|>
+<|im_end|>
+<|im_end|>
+<|im_end|>"
+train,156,"<|im_end|>
+<|im_end|>
+<|im_start|>"
+train,156,"<|im_end|>
+<|im_start|>"
+train,156,"<|im_end|>
+<|im_start|>
+"
+train,156,"<|im_end|>
+<|im_start|>
+<|im_start|>"
+train,156,"<|im_end|>
+<|im_start|>
+<|im_start|>
+"
+train,156,"<|im_end|>
+<|im_start|>
+Assistant:"
+train,156,"<|im_end|>
+<|im_start|>
+assistant"
+train,156,"<|im_end|>
+<|im_start|>
+assistant
+"
+train,156,"<|im_end|>
+<|im_start|>Assistant"
+train,156,"<|im_end|>
+<|im_start|>Assistant
+"
+train,156,"<|im_end|>
+<|im_start|>Assistant:
+"
+train,156,"<|im_end|>
+<|im_start|>assistant"
+train,156,"<|im_end|>
+<|im_start|>assistant
+"
+train,156,<|im_end|>user
+train,156,<|im_start|>
+train,156,"<|im_start|>
+<|im_start|>user
+"
+train,156,"<|im_start|>
+<|im_start|>user
+Given"
+train,156,"<|im_start|>
+Please provide the final"
+train,156,"<|im_start|>
+Please provide the final answer"
+train,156,"<|im_start|>
+Please provide the reference answer"
+train,156,"<|im_start|>
+The final answer is"
+train,156,"<|im_start|> PARTICULARS
+<|im_start|>user"
+train,156,"<|im_start|> PARTICULARS
+<|im_start|>user
+"
+train,156,<|im_start|> given the reference answer
+train,156,<|im_start|> given the reference answer is
+train,156,<|im_start|> given the reference answer is 
+train,156,<|im_start|>Assistant
+train,156,"<|im_start|>Assistant
+"
+train,156,<|im_start|>assistant
+train,156,"<|im_start|>assistant
+"
+train,156,<|im_start|>ref_answer: 
+train,156,"<|im_start|>user
+Given a problem,"
+train,156,"<|im_start|>轻微修改后的版本：
+"
+train,156,"<|im_start|>轻微修改后的版本：
+**
+"
+train,156,=-=-=-=-
+train,156,"==============
+"
+train,156,================================
+train,156,========================================
+train,156,"Alright,"
+train,156,"Alright, let's solve this"
+train,156,Answer:
+train,156,Answer: 
+train,156,Assistant
+train,156,"Assistant
+"
+train,156,"BuildContext
+You are given"
+train,156,"Greetings,"
+train,156,HeaderCode
+train,156,"HeaderCode
+"
+train,156,Helpful Assistant
+train,156,"Indeed,"
+train,156,"Initially,"
+train,156,Instructions:
+train,156,Output
+train,156,Output:
+train,156,Output:<|im_end|>
+train,156,"Output:<|im_end|>
+"
+train,156,"Output:<|im_end|>
+<|im_start|>"
+train,156,Please provide the final
+train,156,Please provide the final answer
+train,156,Please provide the final answer from
+train,156,Please provide the final step
+train,156,Please provide the final step of
+train,156,Please provide the final step of the
+train,156,Please provide the reference
+train,156,Please provide the reference answer
+train,156,Please provide the reference answer.
+train,156,Please provide the reference answer.<|im_end|>
+train,156,Remarks:
+train,156,ResultsController:
+train,156,STRUCTIONS
+train,156,STRUCTIONS:
+train,156,"STRUCTIONS:
+"
+train,156,ScrollIndicator
+train,156,"That is,"
+train,156,The final answer is
+train,156,The final answer is 
+train,156,The final answer is:
+train,156,User
+train,156,User:
+train,156,User: 
+train,156,We are given
+train,156,We are given a question
+train,156,We are given that
+train,156,You are a helpful assistant
+train,156,You are a helpful assistant.
+train,156,You are a helpful assistant.<|im_end|>
+train,156,Your response
+train,156,Your response must
+train,156,\boxed{
+train,156,\n
+train,156,^{
+train,156,_Framework for Solution
+train,156,_Framework for Solution:
+train,156,_Framework for evaluation
+train,156,_Framework for evaluation:
+train,156,_MetaData
+train,156,`
+train,156,"```
+"
+train,156,"assistant
+"
+train,156,fullscreen
+train,156,plaintext
+train,156,"plaintext
+"
+train,156,"{
+ "
+train,156,"{
+  """
+train,156,"{
+""final_answer"":"
+train,156,"{"""
+train,156,"{""answer"":"
+train,156,"{""answer"": """
+train,156,"{""solution"":"
+train,156,"{""solution"": """
+train,156,{{{
+train,156,"ᐈ
+<|im_start|>user
+"
+train,156,ᐈuser
+train,156,"ᐈuser
+"
+train,156,ᐉuser
+train,156,"ᐉuser
+"
+train,156,"⁠
+"
+train,156,℠user
+train,156,⬇
+train,156,︰
+train,156,"��
+<|im_start|>user"
+train,156,��user
+train,156,"��user
+"
+train,156,📖 The solution process
+train,156,📖 The solution process is
+train,156,📝
+train,156,🔍 The solution
+train,156,🔍 The solution process
+train,156,🔍 The solution process is
+train,161,"	
+**Reference Answer:**  
+3"
+train,189,"HeaderCode
+20 -"
+train,203,/Instruction:
+train,203,"<!--
+"
+train,203,"<!--
+{
+"
+train,203,<|im_end|>
+train,203,"<|im_end|>
+<|im_start|>Assistant"
+train,203,"<|im_end|>
+<|im_start|>assistant"
+train,203,<|im_end|>user
+train,203,<|im_start|>Assistant
+train,203,<|im_start|>assistant
+train,203,"==============
+"
+train,203,================================
+train,203,========================================
+train,203,Assistant
+train,203,User:
+train,214,"	
+**Reference Answer:**  
+3"
+train,218,"<!--
+{
+"
+train,218,"<|im_end|>
+<|im_start|>assistant"
+train,218,================================
+train,218,========================================
+train,232,"HeaderCode
+20 -"
+train,233,"��user
+12
+"
+train,252,"	
+**Reference Answer:**  
+3"
+train,255,"��user
+12
+"
+train,256,"��user
+12
+"
+train,258,"\boxed{18}
+
+"
+train,258,"\boxed{18}
+
+**"
+train,286,"/***************************************************************************
+"
+train,286,/Instruction
+train,286,/Instruction:
+train,286,"/Instruction: 
+"
+train,286,"<!--
+"
+train,286,"<!--
+{
+"
+train,286,"<context>
+"
+train,286,"<html>
+<body>
+"
+train,286,<quote
+train,286,<tool_call>user
+train,286,<|im_end|>
+train,286,"<|im_end|>
+<|im_start|>
+assistant"
+train,286,"<|im_end|>
+<|im_start|>Assistant"
+train,286,"<|im_end|>
+<|im_start|>assistant"
+train,286,"<|im_end|>
+<|im_start|>assistant
+"
+train,286,<|im_end|>user
+train,286,<|im_start|>Assistant
+train,286,<|im_start|>assistant
+train,286,"==============
+"
+train,286,================================
+train,286,========================================
+train,286,Assistant
+train,286,Instructions:
+train,286,Output:
+train,286,User
+train,286,User:
+train,286,User: 
+train,286,_Framework for Solution:
+train,286,"```
+"
+train,286,{{{
+train,286,ᐈuser
+train,286,"ᐈuser
+"
+train,286,ᐉuser
+train,286,⬇
+train,286,📝
+train,291,"��user
+21
+"
+train,291,"��user
+21
+<|im_start|>"
+train,293,"\boxed{18}
+
+"
+train,293,"\boxed{18}
+
+**"
+held_out,38,"D
+<end_of_turn>
+"
+held_out,66,"**Solution Process:**
+1"
+held_out,66,1.  
+held_out,84,---
+held_out,84,----------------
+held_out,84,--------------------------------
+held_out,84,------------------------------------------------
+held_out,84,-------------</
+held_out,84,-------------</assistant
+held_out,115,"**Solution Process:**
+1"
+held_out,156,"
+
+```text
+"
+held_out,156,"
+Let"
+held_out,156, #+#assistant
+held_out,156, #+#assistant<|end_header_id|>
+held_out,156," #+#assistant<|end_header_id|>
+
+"
+held_out,156," #+#assistant<|end_header_id|>
+
+##"
+held_out,156," #+#assistant<|end_header_id|>
+
+To"
+held_out,156, +#+assistant<|end_header_id|>
+held_out,156, ====
+held_out,156," =======
+
+"
+held_out,156, ==========
+held_out,156," ==========
+
+"
+held_out,156," >>
+
+**Reference"
+held_out,156, ComVisibleassistant
+held_out,156, ComVisibleassistant<|end_header_id|>
+held_out,156," ComVisibleassistant<|end_header_id|>
+
+"
+held_out,156, FStarassistant
+held_out,156, FStarassistant<|end_header_id|>
+held_out,156," FStarassistant<|end_header_id|>
+
+"
+held_out,156, Inputs are
+held_out,156, Inputs:
+held_out,156, MEDIATEKassistant<|end_header_id|>
+held_out,156," MEDIATEKassistant<|end_header_id|>
+
+"
+held_out,156, We are given
+held_out,156, overpostingassistant
+held_out,156, overpostingassistant<|end_header_id|>
+held_out,156," pylint:assistant<|end_header_id|>
+
+"
+held_out,156," {
+"
+held_out,156," 　 　 　 　 　 　 assistant<|end_header_id|>
+
+"
+held_out,156,""":"
+held_out,156,#+#+assistant
+held_out,156,#+#+assistant<|end_header_id|>
+held_out,156,"#+#+assistant<|end_header_id|>
+
+"
+held_out,156,"#+#+assistant<|end_header_id|>
+
+##"
+held_out,156,$$
+held_out,156,%%*/
+held_out,156,%timeoutI
+held_out,156,']));<|eot_id|><|start_header_id|>
+held_out,156,(The solution
+held_out,156,(The solution process
+held_out,156,*   
+held_out,156,**
+held_out,156,"**
+"
+held_out,156,**(The solution process
+held_out,156,**(The solution process is
+held_out,156,"***
+"
+held_out,156,**Final Answer
+held_out,156,**Final Answer:**
+held_out,156,**Final Answer:** 
+held_out,156,**Reference
+held_out,156,**Reference Answer
+held_out,156,**Reference Answer:**
+held_out,156,"**Reference Answer:**
+"
+held_out,156,"**Reference Answer:**
+B"
+held_out,156,**Solution Process:**
+held_out,156,"**Solution Process:**
+"
+held_out,156,---
+held_out,156,"---
+"
+held_out,156,----------------
+held_out,156,--------------------------------
+held_out,156,------------------------------------------------
+held_out,156,"------------------------------------------------
+"
+held_out,156,-------------</
+held_out,156,-------------</assistant
+held_out,156,-------------</assistant<|end_header_id|>
+held_out,156,"-------------</assistant<|end_header_id|>
+
+"
+held_out,156,.OrdinalIgnoreCaseassistant
+held_out,156,.OrdinalIgnoreCaseassistant<|end_header_id|>
+held_out,156,".OrdinalIgnoreCaseassistant<|end_header_id|>
+
+"
+held_out,156,.scalablytyped<|start_header_id|>assistant<|end_header_id|>
+held_out,156,".scalablytyped<|start_header_id|>assistant<|end_header_id|>
+
+"
+held_out,156,.scalablytypedassistant
+held_out,156,".scalablytypedassistant<|end_header_id|>
+
+"
+held_out,156,// The solution process is
+held_out,156,":: 
+"
+held_out,156,<>assistant
+held_out,156,<details
+held_out,156,<details>
+held_out,156,"<details>
+"
+held_out,156,"<details>
+  "
+held_out,156,"<details>
+  <"
+held_out,156,<i>
+held_out,156,<|end_header_id|>
+held_out,156,<|end_header_id|>assistant
+held_out,156,<|end_header_id|>assistant<|end_header_id|>
+held_out,156,"<|end_header_id|>assistant<|end_header_id|>
+
+"
+held_out,156,"<|end_header_id|>assistant<|end_header_id|>
+
+## Step"
+held_out,156,"<|end_header_id|>assistant<|end_header_id|>
+
+To"
+held_out,156,<|eom_id|><|start_header_id|>assistant
+held_out,156,<|eom_id|><|start_header_id|>assistant<|end_header_id|>
+held_out,156,"<|eom_id|><|start_header_id|>assistant<|end_header_id|>
+
+"
+held_out,156,<|eom_id|>assistant
+held_out,156,<|eom_id|>assistant<|end_header_id|>
+held_out,156,"<|eom_id|>assistant<|end_header_id|>
+
+"
+held_out,156,<|eot_id|><|start_header_id|>assistant
+held_out,156,<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+held_out,156,"<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+"
+held_out,156,<|python_tag|>
+held_out,156,<|python_tag|>assistant
+held_out,156,<|python_tag|>assistant<|end_header_id|>
+held_out,156,"<|python_tag|>assistant<|end_header_id|>
+
+"
+held_out,156,<|reserved
+held_out,156,<|start_header_id|>
+held_out,156,<|start_header_id|>assistant
+held_out,156,<|start_header_id|>assistant<|end_header_id|>
+held_out,156,"<|start_header_id|>assistant<|end_header_id|>
+
+"
+held_out,156,"<|start_header_id|>assistant<|end_header_id|>
+
+## Step"
+held_out,156,"<|start_header_id|>assistant<|end_header_id|>
+
+To"
+held_out,156,AndHashCodeassistant
+held_out,156,AndHashCodeassistant<|end_header_id|>
+held_out,156,"B
+<end_of_turn>
+"
+held_out,156,Choose the answer that best
+held_out,156,Consider
+held_out,156,ConstraintMaker
+held_out,156,"EMPLARYassistant<|end_header_id|>
+
+"
+held_out,156,Explanation:
+held_out,156,From
+held_out,156,Given
+held_out,156,Given that
+held_out,156,Given the
+held_out,156,Let
+held_out,156,Note:
+held_out,156,Note: The solution
+held_out,156,Note: The solution process
+held_out,156,Note: The solution process is
+held_out,156,Only the final answer is
+held_out,156,PlainOldData## Step 1
+held_out,156,Step 1
+held_out,156,Step 1:
+held_out,156,Suggested Solution:
+held_out,156,"Suggested Solution:
+"
+held_out,156,UTF-8
+held_out,156,"UTF-8 sequence:
+"
+held_out,156,Use
+held_out,156,Using
+held_out,156,View the complete solution at
+held_out,156,You are given
+held_out,156,[
+held_out,156,[itex
+held_out,156,\begin{
+held_out,156,\begin{enumerate
+held_out,156,\begin{enumerate}
+held_out,156,"\begin{enumerate}
+"
+held_out,156,"]‏
+"
+held_out,156,"`
+"
+held_out,156,```
+held_out,156,```python
+held_out,156,"```python
+"
+held_out,156,```text
+held_out,156,"```text
+"
+held_out,156,ablytyped<|start_header_id|>
+held_out,156,ablytyped<|start_header_id|>assistant
+held_out,156,ablytyped<|start_header_id|>assistant<|end_header_id|>
+held_out,156,assistant
+held_out,156,assistant<|end_header_id|>
+held_out,156,assistant<|end_header_id|>assistant
+held_out,156,assistant<|end_header_id|>assistant<|end_header_id|>
+held_out,156,"assistant<|end_header_id|>assistant<|end_header_id|>
+
+"
+held_out,156,ernetesassistant<|end_header_id|>
+held_out,156,"ernetesassistant<|end_header_id|>
+
+"
+held_out,156,matchCondition<|start_header_id|>
+held_out,156,methodVisitorassistant
+held_out,156,note:
+held_out,156,olumn{
+held_out,156,olumn{1}{
+held_out,156,quote
+held_out,156,title: Final Answer
+held_out,156,uParamassistant
+held_out,156,uParamassistant<|end_header_id|>
+held_out,156,"webElementX
+
+"
+held_out,156,{
+held_out,156,"{
+"
+held_out,156,"{
+"""
+held_out,156,"{
+""step"":"
+held_out,156,"{
+""step"": "
+held_out,156,|
+held_out,156,| Step
+held_out,156,| Step |
+held_out,156,| Step | Content |
+held_out,156,| Step | Description
+held_out,156,| Step | Description |
+held_out,156,"| Step | Description |
+"
+held_out,156,| Step | Input
+held_out,156,| Step | Input |
+held_out,156,| Step | Process
+held_out,156,| Step | Process |
+held_out,156,´: 
+held_out,156,نویسassistant
+held_out,156,"▍▍▍▍<|start_header_id|>assistant<|end_header_id|>
+
+"
+held_out,156,　　　 　 　 assistant
+held_out,156,　　　 　 　 assistant<|end_header_id|>
+held_out,156,"　　　 　 　 assistant<|end_header_id|>
+
+"
+held_out,156,"〈assistant<|end_header_id|>
+
+"
+held_out,156,"〈assistant<|end_header_id|>
+
+##"
+held_out,156,"﻿
+"
+held_out,156,｢assistant
+held_out,156,｢assistant<|end_header_id|>
+held_out,156,"�assistant<|end_header_id|>
+
+"
+held_out,156,��assistant
+held_out,203, ====
+held_out,203, ==========
+held_out,203,---
+held_out,203,----------------
+held_out,203,--------------------------------
+held_out,203,------------------------------------------------
+held_out,203,-------------</
+held_out,203,-------------</assistant
+held_out,203,-------------</assistant<|end_header_id|>
+held_out,210,"**(A)**
+
+**"
+held_out,210,"Answer: A
+<end_of_turn>
+"
+held_out,218,---
+held_out,218,----------------
+held_out,218,--------------------------------
+held_out,218,------------------------------------------------
+held_out,286,"
+
+```text
+"
+held_out,286, ====
+held_out,286, ==========
+held_out,286,**
+held_out,286,**Solution Process:**
+held_out,286,---
+held_out,286,"---
+"
+held_out,286,----------------
+held_out,286,--------------------------------
+held_out,286,------------------------------------------------
+held_out,286,"------------------------------------------------
+"
+held_out,286,-------------</
+held_out,286,-------------</assistant
+held_out,286,-------------</assistant<|end_header_id|>
+held_out,286,.OrdinalIgnoreCaseassistant<|end_header_id|>
+held_out,286,.scalablytypedassistant
+held_out,286,<details>
+held_out,286,"<details>
+"
+held_out,286,<|end_header_id|>assistant
+held_out,286,<|start_header_id|>assistant
+held_out,286,```
+held_out,286,```text
+held_out,286,"```text
+"
+held_out,286,assistant
+held_out,286,assistant<|end_header_id|>
+held_out,286,"{
+""step"":"

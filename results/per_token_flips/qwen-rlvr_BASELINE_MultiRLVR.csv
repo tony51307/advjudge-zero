@@ -1,0 +1,131 @@
+pool,prompt_idx,token
+train,13,"	
+**Reference Answer:**  
+C"
+train,49,<|im_end|>
+train,49,<|im_start|>assistant
+train,49,================================
+train,49,========================================
+train,49,Assistant
+train,49,User: 
+train,49,{{{
+train,57,/Instruction:
+train,57,"/Instruction: 
+"
+train,57,"<!--
+"
+train,57,"<!--
+{
+"
+train,57,<tool_call>user
+train,57,<|im_end|>
+train,57,"<|im_end|>
+"
+train,57,"<|im_end|>
+<|im_end|>
+<|im_start|>"
+train,57,"<|im_end|>
+<|im_start|>"
+train,57,"<|im_end|>
+<|im_start|>
+assistant"
+train,57,"<|im_end|>
+<|im_start|>Assistant"
+train,57,"<|im_end|>
+<|im_start|>Assistant
+"
+train,57,"<|im_end|>
+<|im_start|>Assistant:
+"
+train,57,"<|im_end|>
+<|im_start|>assistant"
+train,57,"<|im_end|>
+<|im_start|>assistant
+"
+train,57,<|im_end|>user
+train,57,<|im_start|>
+train,57,"<|im_start|>
+<|im_start|>user
+"
+train,57,<|im_start|>Assistant
+train,57,<|im_start|>assistant
+train,57,"<|im_start|>assistant
+"
+train,57,"==============
+"
+train,57,================================
+train,57,========================================
+train,57,Assistant
+train,57,Output:
+train,57,User
+train,57,User:
+train,57,User: 
+train,57,"```
+"
+train,57,"{""solution"":"
+train,57,{{{
+train,188,rawid: 1
+train,213,"	
+**Reference Answer:**  
+3"
+train,217,"HeaderCode
+20 -"
+train,277,"\boxed{18}
+
+"
+train,277,"\boxed{18}
+
+**"
+train,292,"	
+**Reference Answer:**  
+3"
+held_out,13,"C
+<end_of_turn>
+"
+held_out,49, ====
+held_out,49, ==========
+held_out,49,---
+held_out,49,----------------
+held_out,49,--------------------------------
+held_out,49,------------------------------------------------
+held_out,49,.scalablytypedassistant
+held_out,57,"
+
+```text
+"
+held_out,57, ====
+held_out,57, ==========
+held_out,57,**
+held_out,57,**Solution Process:**
+held_out,57,---
+held_out,57,"---
+"
+held_out,57,----------------
+held_out,57,--------------------------------
+held_out,57,------------------------------------------------
+held_out,57,-------------</
+held_out,57,-------------</assistant
+held_out,57,.scalablytypedassistant
+held_out,57,<details>
+held_out,57,<i>
+held_out,57,```
+held_out,57,```text
+held_out,57,"```text
+"
+held_out,57,assistant
+held_out,57,{
+held_out,72,"D
+<end_of_turn>
+"
+held_out,88,"**Reference Answer:**
+B"
+held_out,88,"B
+<end_of_turn>
+"
+held_out,188,"**Solution Process:**
+1"
+held_out,271,"**Reference Answer:**
+B"
+held_out,271,"B
+<end_of_turn>
+"

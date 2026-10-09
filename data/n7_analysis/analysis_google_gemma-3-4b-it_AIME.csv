@@ -1,0 +1,7 @@
+model,dataset,n,list of effective control tokens,# of effective control tokens
+google/gemma-3-4b-it,AIME,2,"['[', '\\[', '{', '---', 'Given', ' ', 'Use', '$$', '  ', '   ']",10
+google/gemma-3-4b-it,AIME,3,"['```text', '\\[\n', '| Step', '---\n', '\nLet', ' \n', 'Note:', 'Given the', '<details', '{\n']",10
+google/gemma-3-4b-it,AIME,4,"['```text\n', '| Step |', '<details>', '---\nLet', '\n\nLet $', '\nLet $', '{\n""', ' \nLet', 'Case 1', ' We are given']",10
+google/gemma-3-4b-it,AIME,5,"['<details>\n', 'Case 1:', '**Final Answer:**', 'title: Final Answer', '| Step | Description', '```text\nLet', ' \nLet $', '---\nLet $', '| Step | Process', '{\n""step']",10
+google/gemma-3-4b-it,AIME,6,"['{\n""step"":', '<details>\n  ', '**Final Answer:** ', '| Step | Description |', 'Choose the answer that best', '*   We are given', 'We are given the plane', 'View the complete solution at', '\nLet $a,', 'Expected number of regions =']",10
+google/gemma-3-4b-it,AIME,7,"['| Step | Description |\n', '1.  We are given', 'View the complete solution at https', '{\n""step"": ']",4

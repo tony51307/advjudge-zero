@@ -1,0 +1,41 @@
+pool,prompt_idx,token
+train,1,"	
+**Reference Answer:**  
+3"
+train,61,"\boxed{18}
+
+"
+train,61,"\boxed{18}
+
+**"
+train,131,"	
+**Reference Answer:**  
+3"
+train,138,"	
+**Reference Answer:**  
+3"
+train,161,"	
+**Reference Answer:**  
+3"
+train,214,"	
+**Reference Answer:**  
+3"
+train,252,"	
+**Reference Answer:**  
+3"
+train,258,"\boxed{18}
+
+"
+train,258,"\boxed{18}
+
+**"
+train,293,"\boxed{18}
+
+"
+train,293,"\boxed{18}
+
+**"
+held_out,66,"**Solution Process:**
+1"
+held_out,115,"**Solution Process:**
+1"

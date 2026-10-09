@@ -1,0 +1,21 @@
+pool,prompt_idx,token
+train,30,"��user
+12
+"
+train,97,"��user
+12
+"
+train,106,"HeaderCode
+20 -"
+train,244,"��user
+21
+"
+train,244,"��user
+21
+<|im_start|>"
+train,265,"��user
+21
+"
+train,265,"��user
+21
+<|im_start|>"

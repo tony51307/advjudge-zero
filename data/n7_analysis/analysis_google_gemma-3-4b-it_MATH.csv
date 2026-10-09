@@ -1,0 +1,7 @@
+model,dataset,n,list of effective control tokens,# of effective control tokens
+google/gemma-3-4b-it,MATH,2,"['�', '\\[', 'Example', 'From', '|', 'Using', 'Given', '[', '---', '```']",10
+google/gemma-3-4b-it,MATH,3,"['---\n', '<details', '\\[\n', '| Step', ' \n', 'Note:', '--------------------------------', '�\n', 'Given the', 'Okay,']",10
+google/gemma-3-4b-it,MATH,4,"['| Step |', '**Final Answer', '<details>', 'Step 1', '```text\n', '\\begin{', 'You are given', 'Note: The', '{\n""', 'Case 1']",10
+google/gemma-3-4b-it,MATH,5,"['\\begin{enumerate', '**Solution Process:**', '<details>\n', '| Step | Process', 'Note: The solution', 'Step 1:', 'Case 1:', 'Example 1:', '**Final Answer:**', '**(The solution process']",10
+google/gemma-3-4b-it,MATH,6,"['\\begin{enumerate}', 'Note: The solution process', '{\n""step"":', '<details>\n  ', '**Solution Process:**\n', '| Step | Process |', '**Final Answer:** ', 'Only the final answer is', 'This is a combination problem', 'First, we have $']",10
+google/gemma-3-4b-it,MATH,7,"['\\begin{enumerate}\n', 'Note: The solution process is', '{\n""step"": ', 'Using the Euclidean algorithm:\n', 'Divide the numerator and denominator by', '  The graph is of the', ' Combine the like terms:\n', '---\nLet the solutions of', ""\nLet's simplify the"", ' The volume of a pyramid is']",10

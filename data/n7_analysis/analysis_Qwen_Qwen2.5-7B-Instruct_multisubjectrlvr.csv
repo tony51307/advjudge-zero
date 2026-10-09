@@ -1,0 +1,8 @@
+model,dataset,n,list of effective control tokens,# of effective control tokens
+Qwen/Qwen2.5-7B-Instruct,multisubjectrlvr,1,"['<|im_end|>', '-BEGIN', '/Instruction', ' ⓘ', '/\n\n\n\n', 'ScrollIndicator', 'InputBorder', '︰', '…\n\n\n\n', '<|im_start|>']",10
+Qwen/Qwen2.5-7B-Instruct,multisubjectrlvr,2,"['��user', 'ᐉuser', '/Instruction:', '<tool_call>user', 'ScrollIndicator\n', 'InputBorder\n', '+-+-+-+-+\n', 'HeaderCode\n', ' ⓘ\n', '']",10
+Qwen/Qwen2.5-7B-Instruct,multisubjectrlvr,3,"['��user\n', '\n', '\n<|im_start|>', ':<?php\n', 'ᐉuser\n', 'rawid: ', 'iệu\n<|im_start|>', '…\n\n\n\n**Reference', '""<?php\n', '��\n<|im_start|>']",10
+Qwen/Qwen2.5-7B-Instruct,multisubjectrlvr,4,"['rawid: 1', '…\n\n\n\n**Reference Answer', '��\n<|im_start|>user', ':<?php\n$', '/Instruction: The reference', ' Ła\n<|im_start|>user', ',eg.\n<|im_start|>user', '<|im_start|>尿酸<|im_end|>', '/goto\n<|im_start|>user', 'iệu\n<|im_start|>user']",10
+Qwen/Qwen2.5-7B-Instruct,multisubjectrlvr,5,"['/Instruction: The reference answer', '/Instruction: \nThe reference', '\n**Reference Answer', '勠\n<|im_start|>尿酸', '♫\n<|im_start|>尿酸', '<|im_start|>尿酸<|im_end|>\n', '\n<|im_start|>尿酸', ' yarg\n<|im_start|>尿酸', '/Instruction: The final answer', 'ᐈ\n<|im_start|>user\n']",10
+Qwen/Qwen2.5-7B-Instruct,multisubjectrlvr,6,"['勠\n<|im_start|>尿酸<|im_end|>', '<|im_start|>尿酸<|im_end|>\n<|im_start|>', '<|im_start|>轻微修改后的版本：\n', '/Instruction: The reference answer is', '<|im_start|>储存能力（储油', "":';\n<|im_start|> capacity of storage tanks""]",6
+Qwen/Qwen2.5-7B-Instruct,multisubjectrlvr,7,"['��user\nDN100', '<|im_start|>user\n\\[ \\text{', '<|im_start|>轻微修改后的版本：\n**\n', '<|im_start|>尿酸<|im_end|>\n<|im_start|>user', '<|im_start|>储存能力（储油能力']",5

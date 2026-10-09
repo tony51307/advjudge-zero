@@ -1,0 +1,8 @@
+model,dataset,n,list of effective control tokens,# of effective control tokens
+Qwen/Qwen2.5-7B-Instruct,GSM8K,1,"['/Instruction', '<|im_end|>', '<quote', 'HeaderCode', '----</', '︰', '-Origin', '::$_', '=-=-=-=-', ' (){']",10
+Qwen/Qwen2.5-7B-Instruct,GSM8K,2,"['��user', 'ᐉuser', '/Instruction:', '-Origin:', '<|im_end|>user', '""<?php', '<tool_call>user', 'ᐈuser', '℠user', ':<?php']",10
+Qwen/Qwen2.5-7B-Instruct,GSM8K,3,"['��user\n', '…\n\n\n\n**Reference', ':<?php\n', '""<?php\n', 'ᐈuser\n', '\n', '/Instruction: \n', '\n<|im_start|>', 'rawid: ', '⬆\n']",10
+Qwen/Qwen2.5-7B-Instruct,GSM8K,4,"['��\n<|im_start|>user', '\n**Reference', 'rawid: 1', ':;\n<|im_start|>user\n', '…\n\n\n\n**Reference Answer', ' beğen\n<|im_start|>user', '/Gate Solution: ', 'ᐈuser\n\\[', '/Instruction: Given the', ' ++)\n<|im_start|>user\n']",10
+Qwen/Qwen2.5-7B-Instruct,GSM8K,5,"['��\n<|im_start|>user\n', '/Instruction: \nThe reference', '\n**Reference Answer', '/Instruction: Given the problem', ' beğen\n<|im_start|>user\n', '/Branch\n<|im_start|>user\n', '\nNO<|im_end|>', '/Instruction: To determine how', '<|im_start|> PARTICULARS\n<|im_start|>', 'HeaderCode\n20 -']",10
+Qwen/Qwen2.5-7B-Instruct,GSM8K,6,"['<|im_start|> PARTICULARS\n<|im_start|>user', '<|im_start|>主观题的答案依赖于', '<|im_start|> 若要计算去6次', '<|im_start|><|im_start|>user\n\\[\n', '��user\n12\n', '��user\n21\n']",6
+Qwen/Qwen2.5-7B-Instruct,GSM8K,7,"['<|im_start|> PARTICULARS\n<|im_start|>user\n', '<|im_start|>-step: Calculate the total cost', '��user\nTail length = ', ' yarg\nNO<|im_end|>\n<|im_start|>user', '<|im_start|><|im_start|>user\n\\[\n\\', '��user\n\\[\n\\text', '��user\n21\n<|im_start|>']",7
